@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VinizCode
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning Laravel and Vue
-- 📫 How to reach me @ViniciusVianaS
+- 💻 I work as a backend developer
 
 <!---
 VinizCode/VinizCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
